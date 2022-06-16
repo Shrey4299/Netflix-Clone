@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "react-netflix-588f7"
-  }
+    "default": "netflix-react-app-ae3f4",
+    "staging": "netflix-react-app-ae3f4"
+  },
+  "targets": {}
 }
